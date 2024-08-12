@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://x.com/Ai_codemaster](https://x.com/Ai_codemaster)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, Tailwindcss, JavaScript**
 
 - 📫 How to reach me **ai5445359@gmail.com**
 
